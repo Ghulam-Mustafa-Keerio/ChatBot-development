@@ -8,6 +8,3 @@ nltk>=3.8.0
 
 # UI/Interface
 gradio>=3.0.0
-
-# Utilities
-pickle-mixin>=1.0.2
