@@ -1,0 +1,10 @@
+# Core Dependencies
+numpy>=1.21.0
+tensorflow>=2.10.0
+scikit-learn>=1.0.0
+
+# Natural Language Processing
+nltk>=3.8.0
+
+# UI/Interface
+gradio>=3.0.0
